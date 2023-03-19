@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Jury, I'm an IT Professional👋
 
 <!--
 **JuryM87/JuryM87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
