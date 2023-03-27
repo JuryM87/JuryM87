@@ -11,7 +11,7 @@
    - [Setup & Usage of VPN](https://github.com/JuryM87/VPN-Setup-Usage.git)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JuryM87/Active-Directory-Using-Azure-VM-.git)
   
 
 <h2>🤳Connect with me:</h2>
